@@ -1,1 +1,0 @@
-models/single/convNetXt_IMAGENET1K_V1.pth filter=lfs diff=lfs merge=lfs -text
